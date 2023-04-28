@@ -1,0 +1,2 @@
+def energize(action):
+    pass

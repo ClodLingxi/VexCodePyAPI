@@ -1,0 +1,2 @@
+def pressed() -> bool:
+    pass
